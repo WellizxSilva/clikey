@@ -149,7 +149,7 @@ const resultado = clikey.createKey({
   symbols: false,
   repeatCount: 5,
 });
-await clikey.exportToJSON(resultado, "./minhas-chaves.json", true);
+await clikey.exportToJson(resultado, "./minhas-chaves.json", true);
 // No ultimo argumento se marcado como true, exporta somente as chaves, não incluindo os modificadores.
 ```
 
@@ -239,7 +239,7 @@ yarn cli --ma --mi -t 24 --grouped
 -h
 ```
 
-O uso de `--` separa os argumentos do comando principal para que sejam passados corretamente.
+O uso de `--` no `npm` separa os argumentos do comando principal para que sejam passados corretamente.
 
 #### ⚙️ Minha Abordagem:
 
