@@ -4,5 +4,3 @@ const chave = clikey.createKey({length: 64, prefix: "clikey", suffix: "v1.0", re
 
 console.log(clikey.getKeysFromResult(chave))
 
-
-// https://github.com/WellizxSilva/clikey.git
