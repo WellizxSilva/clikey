@@ -241,6 +241,6 @@ yarn cli --ma --mi -t 24 --grouped
 
 O uso de `--` no `npm` separa os argumentos do comando principal para que sejam passados corretamente.
 
-#### ⚙️ Minha Abordagem:
+### ⚙️ Minha Abordagem:
 
-###### Em vez de utilizar loops preferi usar promises, para praticar um novo formato de programação e melhor legibilidade.
+##### Em vez de utilizar loops preferi usar promises, para praticar um novo formato de programação e melhor legibilidade.
