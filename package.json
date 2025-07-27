@@ -7,7 +7,7 @@
     "clikey": "./src/bin/index.js"
   },
   "scripts": {
-    "setup": "npm install",
+    "setup": "npm install commander readline",
     "start": "node index.js",
     "cli": "node ./src/bin/index.js"
   },

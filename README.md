@@ -31,7 +31,10 @@ O clikey pode ser usado de três formas:
 ```bash
 git clone https://github.com/WellizxSilva/clikey.git
 # dentro da pasta, execute:
-npm install
+npm setup
+# ou
+yarn run setup
+
 # para instalar as dependências
 ```
 
