@@ -30,6 +30,7 @@ O clikey pode ser usado de três formas:
 
 ```bash
 git clone https://github.com/WellizxSilva/clikey.git
+cd clikey
 # dentro da pasta, execute:
 npm run setup
 # ou
